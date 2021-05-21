@@ -1,0 +1,167 @@
+
+cd file
+cd dsaslhfal
+history
+exit
+mkdir one two
+mkdir one
+mkdir
+mkdir one
+cd 
+cd folder
+cd ,,
+cd ..
+mkdir one
+mkdir two
+mkdir -v one
+ls
+ls
+echo this is a message
+echo -n this is a message
+echo -E this is a message
+pwd
+pwd 
+pwd
+pwd 
+pwd --help
+pwd -P
+history
+history 4
+ls
+ls 
+ls -a
+ls -i
+ls
+ls -i
+ls -a
+ls
+cd 
+cd ..
+mkdir one
+mkdir two three
+rm one two 
+rm one
+rm one
+rm one 
+mkdir four fice
+rm fice
+rm one two
+rm one
+ls
+rm three
+mkdir three
+rm three
+mkdir three 
+rm three
+mkdir three five
+ls
+rm three five
+ls
+rm three
+ls
+rm four 
+rm four
+rm four
+ls
+mkdir four
+rm four
+ls
+mkdir some bome
+rm some bome
+ls
+rm -v some
+mkdir some
+rm some
+mkdir some 
+rm -v some
+cd ..
+echo this is a message
+cat ls_code.c
+cat ls_code.c 
+history
+echo -n this is a message
+mkdir folder
+ls
+rm folder
+ls
+mkdir folder_1 folder_2
+ls
+rm folder_1 folder_2
+ls
+cat cat_code.c
+cat cat_code.c date_code.c
+cat -n cat_code.c
+cat -e cat_code.c
+history
+date
+date -u
+date -h
+pwd
+pwd 
+pwd 
+pwd -P
+pwd --help
+cd ..
+ls -i
+ls -a
+history
+cd ..
+history
+cd ..
+cd question_2
+cd ..
+asfdfdkh
+asjfd
+cd question_2
+history
+cd ..
+cd ..
+dsfahfkladsf
+asdafkja
+history
+cd c_folder
+ls 
+ls
+ls fds
+ls
+cd ..
+cd question_2
+ls
+ls 
+ls 
+echo this is a message
+cat cat_code.c
+ls
+ls
+ls 
+ls
+ls
+cd ..
+history
+mkdir one two
+rm one two
+ls
+ls -i 
+cat cat_code.c
+cd ..
+cd question_2
+ls 
+ls -a 
+ls -i
+mkdir one 
+rm one
+ls
+ls
+ls
+ls -i
+ls -a
+ls -a
+cd ..
+cd question_2
+mkdir one
+ls
+cd one
+ls 
+cd ..
+history
+exit
